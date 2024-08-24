@@ -20,6 +20,7 @@ algorithmic-trading-bot/
 │   ├── data_preprocessing.ipynb  # Jupyter notebook for data preprocessing
 │   └── model_training.ipynb      # Jupyter notebook for model training and evaluation
 │
+
 ├── src/
 │   ├── data_collection.py       # Script to collect and preprocess data
 │   ├── trading_strategy.py      # Script implementing the trading strategy
