@@ -10,26 +10,5 @@ Hybrid Trading Strategy: Combines signals from technical analysis with AI model 
 Backtesting and Paper Trading: Tests the trading strategy on historical data and in a simulated environment to evaluate performance before going live.
 Live Trading: Executes trades in a live environment with real-time monitoring and risk management features.
 
-algorithmic-trading-bot/
-│
-├── data/
-│   ├── historical_data.csv  # Placeholder for storing downloaded historical data
-│   └── model/               # Placeholder for trained models
-│
-├── notebooks/
-│   ├── data_preprocessing.ipynb  # Jupyter notebook for data preprocessing
-│   └── model_training.ipynb      # Jupyter notebook for model training and evaluation
-│
 
-├── src/
-│   ├── data_collection.py       # Script to collect and preprocess data
-│   ├── trading_strategy.py      # Script implementing the trading strategy
-│   ├── trade_execution.py       # Script for executing trades using Alpaca API
-│   ├── model.py                 # Script containing machine learning models
-│   ├── backtest.py              # Script for backtesting the trading strategy
-│   └── main.py                  # Main script to run the bot
-│
-├── README.md                    # Project documentation (this file)
-├── requirements.txt             # List of required Python libraries
-└── .gitignore                   # Git ignore file
 
