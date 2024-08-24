@@ -10,7 +10,6 @@ Hybrid Trading Strategy: Combines signals from technical analysis with AI model 
 Backtesting and Paper Trading: Tests the trading strategy on historical data and in a simulated environment to evaluate performance before going live.
 Live Trading: Executes trades in a live environment with real-time monitoring and risk management features.
 
-
 algorithmic-trading-bot/
 │
 ├── data/
@@ -32,3 +31,4 @@ algorithmic-trading-bot/
 ├── README.md                    # Project documentation (this file)
 ├── requirements.txt             # List of required Python libraries
 └── .gitignore                   # Git ignore file
+
